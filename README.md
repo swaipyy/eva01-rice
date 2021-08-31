@@ -1,5 +1,6 @@
 # eva01-rice
 ## my dwm rice!
+send me a pic on instagram if you install my rice<3 @swaipy_
 my dwm rice with kitty spt spotifyd and pywal
 # Dependences 
 - awesome fonts or nerd-fonts-complete / jetbrainsmono
